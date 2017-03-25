@@ -1,2 +1,0 @@
-# arventures
-augmented reality app 
